@@ -211,7 +211,7 @@ cd C:\Users\HP\Downloads\FullStack-Skill-7\FullStack-Skill-7
 git init
 git add .
 git commit -m "Skill7: REST CRUD with ResponseEntity - CourseAPI"
-git remote add origin https://Adithya-charan@github.com/Adithya-charan/FullStack-Skill-7.git
+git remote add origin https://github.com/NIkesh7474/FSAD-Skill-7
 git branch -M main
 git push -u origin main --force
 ```
